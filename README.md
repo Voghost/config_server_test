@@ -1,0 +1,2 @@
+# config_server_test
+存放springcloud配置的仓库测试
